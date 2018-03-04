@@ -197,7 +197,7 @@
 -
   index: 'map_40'
   country_name: 'CYPRUS'
-  visited: false
+  visited: true
 
 -
   index: 'map_41'
@@ -307,7 +307,7 @@
 -
   index: 'map_62'
   country_name: 'GREECE'
-  visited: true
+  visited: false
 
 -
   index: 'map_63'
@@ -377,7 +377,7 @@
 -
   index: 'map_76'
   country_name: 'IRELAND'
-  visited: false
+  visited: true
 
 -
   index: 'map_77'
@@ -567,7 +567,7 @@
 -
   index: 'map_114'
   country_name: 'NETHERLANDS'
-  visited: false
+  visited: true
 
 -
   index: 'map_115'
@@ -597,7 +597,7 @@
 -
   index: 'map_120'
   country_name: 'NORWAY'
-  visited: false
+  visited: true
 
 -
   index: 'map_121'
@@ -742,7 +742,7 @@
 -
   index: 'map_149'
   country_name: 'SPAIN'
-  visited: false
+  visited: true
 
 -
   index: 'map_150'
